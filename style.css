@@ -136,12 +136,12 @@ body {
     }
     .card img {
       width: 100%;
-      border-top-right-radius: 10px;
-      border-top-left-radius: 10px;
+      border-top-right-radius: 15px;
+      border-top-left-radius: 15px;
     }
   }
 
-@media screen and (max-width: 830px) {
+@media screen and (min-width: 830px) {
     .body{
         background: hsl(210,46%,95%);
     }
