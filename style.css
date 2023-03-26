@@ -141,7 +141,7 @@ body {
     }
   }
 
-@media screen and (min-width: 830px) {
+@media (min-width: 830px) {
     .body{
         background: hsl(210,46%,95%);
     }
